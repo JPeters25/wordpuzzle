@@ -1,0 +1,16 @@
+C:\Users\jmarv\OneDrive\Desktop\my-projects\WordPuzzle.solution\WordPuzzle\obj\Debug\net5.0\WordPuzzle.csproj.AssemblyReference.cache
+C:\Users\jmarv\OneDrive\Desktop\my-projects\WordPuzzle.solution\WordPuzzle\obj\Debug\net5.0\WordPuzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmarv\OneDrive\Desktop\my-projects\WordPuzzle.solution\WordPuzzle\obj\Debug\net5.0\WordPuzzle.AssemblyInfoInputs.cache
+C:\Users\jmarv\OneDrive\Desktop\my-projects\WordPuzzle.solution\WordPuzzle\obj\Debug\net5.0\WordPuzzle.AssemblyInfo.cs
+C:\Users\jmarv\OneDrive\Desktop\my-projects\WordPuzzle.solution\WordPuzzle\obj\Debug\net5.0\WordPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\jmarv\OneDrive\Desktop\my-projects\WordPuzzle.solution\WordPuzzle\bin\Debug\net5.0\WordPuzzle.exe
+C:\Users\jmarv\OneDrive\Desktop\my-projects\WordPuzzle.solution\WordPuzzle\bin\Debug\net5.0\WordPuzzle.deps.json
+C:\Users\jmarv\OneDrive\Desktop\my-projects\WordPuzzle.solution\WordPuzzle\bin\Debug\net5.0\WordPuzzle.runtimeconfig.json
+C:\Users\jmarv\OneDrive\Desktop\my-projects\WordPuzzle.solution\WordPuzzle\bin\Debug\net5.0\WordPuzzle.runtimeconfig.dev.json
+C:\Users\jmarv\OneDrive\Desktop\my-projects\WordPuzzle.solution\WordPuzzle\bin\Debug\net5.0\WordPuzzle.dll
+C:\Users\jmarv\OneDrive\Desktop\my-projects\WordPuzzle.solution\WordPuzzle\bin\Debug\net5.0\WordPuzzle.pdb
+C:\Users\jmarv\OneDrive\Desktop\my-projects\WordPuzzle.solution\WordPuzzle\obj\Debug\net5.0\WordPuzzle.dll
+C:\Users\jmarv\OneDrive\Desktop\my-projects\WordPuzzle.solution\WordPuzzle\obj\Debug\net5.0\refint\WordPuzzle.dll
+C:\Users\jmarv\OneDrive\Desktop\my-projects\WordPuzzle.solution\WordPuzzle\obj\Debug\net5.0\WordPuzzle.pdb
+C:\Users\jmarv\OneDrive\Desktop\my-projects\WordPuzzle.solution\WordPuzzle\obj\Debug\net5.0\WordPuzzle.genruntimeconfig.cache
+C:\Users\jmarv\OneDrive\Desktop\my-projects\WordPuzzle.solution\WordPuzzle\obj\Debug\net5.0\ref\WordPuzzle.dll

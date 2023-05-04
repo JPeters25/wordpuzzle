@@ -1,0 +1,5 @@
+C:\Users\jmarv\OneDrive\Desktop\my-projects\WordPuzzle.solution\obj\Debug\net6.0\WordPuzzle.csproj.AssemblyReference.cache
+C:\Users\jmarv\OneDrive\Desktop\my-projects\WordPuzzle.solution\obj\Debug\net6.0\WordPuzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmarv\OneDrive\Desktop\my-projects\WordPuzzle.solution\obj\Debug\net6.0\WordPuzzle.AssemblyInfoInputs.cache
+C:\Users\jmarv\OneDrive\Desktop\my-projects\WordPuzzle.solution\obj\Debug\net6.0\WordPuzzle.AssemblyInfo.cs
+C:\Users\jmarv\OneDrive\Desktop\my-projects\WordPuzzle.solution\obj\Debug\net6.0\WordPuzzle.csproj.CoreCompileInputs.cache

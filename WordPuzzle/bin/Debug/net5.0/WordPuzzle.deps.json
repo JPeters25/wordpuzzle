@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WordPuzzle/1.0.0": {
+        "runtime": {
+          "WordPuzzle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WordPuzzle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
